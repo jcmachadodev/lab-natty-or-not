@@ -14,7 +14,7 @@ Utilizei o "ChatGPT" para criar um guia de desenvolvimento utilizando AI. Por ou
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente, abordando desde a preparação do ambiente até a implantação, com foco em linguagens, ferramentas e integração de modelos de IA em aplicações web modernas e adaptativas.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://github.com/jcmachadodev/lab-natty-or-not/releases/download/1/Desenvolvimento_de_Webapps_com_IA_Um_Guia_Prtico.pdf)
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
